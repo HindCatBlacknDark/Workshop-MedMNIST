@@ -1,0 +1,6 @@
+torch>=1.13
+torchvision
+medmnist
+matplotlib
+numpy
+tqdm
