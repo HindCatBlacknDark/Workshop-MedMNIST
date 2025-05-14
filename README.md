@@ -6,8 +6,8 @@
 
 - Local demo (notebooks/local_demo.ipynb): run on participants’ machines.
 
-- This repository contains the code for the hands-on session and slides materials for the workshop titeled "".
-- This is an open source and free workshop as part of the Meet-up program held online on 15th May 2025 by the GalsenAI and .
+- This repository contains the code for the hands-on session and slides materials for the workshop titeled "IA de Confiance & Traitement d’Images : Médecine, Agriculture, Environnement".
+- This is an open source and free workshop as part of the Meet-up program held online on 15th May 2025 by the Zone01 Dakar AI_community x GalsenAI .
 
 ## Structure of the repository
 ```plaintext
