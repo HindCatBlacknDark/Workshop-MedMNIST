@@ -49,6 +49,7 @@ src/gradcam.py – Grad‑CAM implementation
    [📂 Workshop Materials (Google Drive)](https://drive.google.com/drive/folders/1osNA0xGPHnlYB173QcuhbgFxSE_zroFP?usp=drive_link)
 
    - Open `notebooks/colab_demo.ipynb` in Google Colab
+   - Please make a copy of the notebook (do not modify in original)
    - Runtime: Python 3, GPU recommended
    - Run first cell to install dependencies automatically
 
