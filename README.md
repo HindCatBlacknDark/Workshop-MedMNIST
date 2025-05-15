@@ -46,11 +46,13 @@ src/gradcam.py – Grad‑CAM implementation
 
 ### Demo
 1. **Colab**
+   [📂 Workshop Materials (Google Drive)](https://drive.google.com/drive/folders/1osNA0xGPHnlYB173QcuhbgFxSE_zroFP?usp=drive_link)
+
    - Open `notebooks/colab_demo.ipynb` in Google Colab
    - Runtime: Python 3, GPU recommended
    - Run first cell to install dependencies automatically
 
-2. **Local**
+3. **Local**
    ```bash
    git clone https://github.com/<org>/workshop-medmnist.git
    cd workshop-medmnist
